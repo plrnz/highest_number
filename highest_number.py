@@ -1,9 +1,9 @@
-# Pre-set 5 numbers
-num1 = 35
-num2 = 68
-num3 = 13
-num4 = 96
-num5 = 59
+# Ask the user to input 5 numbers
+num1 = int(input("Input the 1st number (any range): "))
+num2 = int(input("Input the 2nd number (any range): "))
+num3 = int(input("Input the 3rd number (any range): "))
+num4 = int(input("Input the 4th number (any range): "))
+num5 = int(input("Input the 5th number (any range): "))
 
 # Initialize 'highest with the first number
 highest = num1
