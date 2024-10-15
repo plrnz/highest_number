@@ -17,3 +17,6 @@ if num4 > highest:
     highest = num4
 if num5 > highest:
     highest = num5
+
+# Print the highest number
+print(f"The highest number is: {highest}")
