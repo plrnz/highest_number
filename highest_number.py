@@ -7,3 +7,13 @@ num5 = 59
 
 # Initialize 'highest with the first number
 highest = num1
+
+# Compare the other number with the 'highest
+if num2 > highest:
+    highest = num2
+if num3 > highest:
+    highest = num3
+if num4 > highest:
+    highest = num4
+if num5 > highest:
+    highest = num5
